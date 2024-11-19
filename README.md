@@ -1,6 +1,7 @@
 # rankbasedlinkage.py
 
 This is a pure python implementation of the rank based linkage clustering algorithm from the papser *Rank-based linkage i: triplet comparisons and oriented simplicial complexes* by R. W. R. Darling, W. Grilliette, and A. Logan.
+The paper comes with an [official Java implementation](https://github.com/NationalSecurityAgency/rank-based-linkage) that is much faster.
 
 The algorithm is implemented with an approximately sci-kit learn class, so the usage should be familar to those with sci-kit experience.
 Check out the notebooks for example usage, or getting started below.
